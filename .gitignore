@@ -1,0 +1,8 @@
+config.yaml
+tmp
+.env
+.venv
+documents/*
+static/*
+__pycache__
+/prompts/prompt_*.txt
